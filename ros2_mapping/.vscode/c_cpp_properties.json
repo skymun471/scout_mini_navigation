@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/skydive/Project/scout_ws/install/scout_msgs/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/skydive/Project/scout_ws/src/ros2_mapping/include/**",
+        "/home/skydive/Project/scout_ws/src/scout_ros2/scout_base/include/**",
+        "/home/skydive/Project/scout_ws/src/ugv_sdk/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
