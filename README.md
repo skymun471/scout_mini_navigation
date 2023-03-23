@@ -28,7 +28,7 @@ Ready
   sudo ifconfig
   sudo ifconfig <connect_id> 192.168.1.100
   ```
-  
+![KakaoTalk_20230323_164212920](https://user-images.githubusercontent.com/41955439/227136149-929a6d2c-d9c1-4e23-81cc-dc3fc238ee02.png) 
 ![Screenshot from 2023-01-09 11-10-08](https://user-images.githubusercontent.com/41955439/212530103-fb12a85d-ffbf-4a14-85a3-c8fa3e74c62b.png)
 ![Screenshot from 2023-01-09 11-13-25](https://user-images.githubusercontent.com/41955439/212530109-b07cce64-a5ac-4a56-93c2-dcf0cf78ec4d.png)
 ![Screenshot from 2023-01-09 11-47-51](https://user-images.githubusercontent.com/41955439/212530116-84b161fd-a5ec-42ca-8914-e2187dbee092.png)
